@@ -1,3 +1,117 @@
 [submodule "vim-settings"]
 	path = vim-settings
 	url = git@bbgithub.dev.bloomberg.com:asadough/vim-settings.git
+[submodule "bundle/vim-unimpaired"]
+	path = bundle/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/vim-supertab"]
+	path = bundle/vim-supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/vim-startify"]
+	path = bundle/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "bundle/vim-sneak"]
+	path = bundle/vim-sneak
+	url = https://github.com/justinmk/vim-sneak.git
+[submodule "bundle/vim-markdown-preview"]
+	path = bundle/vim-markdown-preview
+	url = https://github.com/JamshedVesuna/vim-markdown-preview.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-exchange"]
+	path = bundle/vim-exchange
+	url = https://github.com/tommcdo/vim-exchange.git
+[submodule "bundle/vim-eunuch"]
+	path = bundle/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
+[submodule "bundle/vim-diff-enhanced"]
+	path = bundle/vim-diff-enhanced
+	url = https://github.com/chrisbra/vim-diff-enhanced.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = https://github.com/tpope/vim-dispatch.git
+[submodule "bundle/vim-commentary"]
+	path = bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/vim-clang-format"]
+	path = bundle/vim-clang-format
+	url = https://github.com/rhysd/vim-clang-format.git
+[submodule "bundle/vim-calendar"]
+	path = bundle/vim-calendar
+	url = https://github.com/itchyny/calendar.vim.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-abolish"]
+	path = bundle/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-tabular"]
+	path = bundle/vim-tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-taglist"]
+	path = bundle/vim-taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "vim-semantic-highlight"]
+	path = bundle/vim-semantic-highlight
+	url = https://github.com/jaxbot/semantic-highlight.vim.git
+[submodule "bundle/vim-rainbow_parentheses"]
+	path = bundle/vim-rainbow_parentheses
+	url = https://github.com/kien/rainbow_parentheses.vim.git
+[submodule "bundle/vim-l9"]
+	path = bundle/vim-l9
+	url = tttps://github.com/eparreno/vim-l9.git
+[submodule "bundle/vim-advanced-sorters"]
+	path = bundle/vim-advanced-sorters
+	url = https://github.com/vim-scripts/AdvancedSorters.git
+[submodule "bundle/vim-ale"]
+	path = bundle/vim-ale
+	url = https://github.com/w0rp/ale.git
+[submodule "bundle/vim-buffergrep"]
+	path = bundle/vim-buffergrep
+	url = https://github.com/vim-scripts/buffergrep.git
+[submodule "bundle/vim-cscope-macros"]
+	path = bundle/vim-cscope-macros
+	url = https://github.com/vim-scripts/cscope_macros.vim.git
+[submodule "bundle/vim-doxygen-syntax"]
+	path = bundle/vim-doxygen-syntax
+	url = https://github.com/vim-scripts/DoxyGen-Syntax.git
+[submodule "bundle/vim-doxygen-toolkit"]
+	path = bundle/vim-doxygen-toolkit
+	url = https://github.com/vim-scripts/DoxygenToolkit.vim.git
+[submodule "bundle/vim-easygrep"]
+	path = bundle/vim-easygrep
+	url = https://github.com/dkprice/vim-easygrep.git
+[submodule "bundle/vim-fuzzy-finder"]
+	path = bundle/vim-fuzzy-finder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "bundle/vim-gitv"]
+	path = bundle/vim-gitv
+	url = https://github.com/gregsexton/gitv.git
+[submodule "bundle/vim-linediff"]
+	path = bundle/vim-linediff
+	url = https://github.com/AndrewRadev/linediff.vim.git
+[submodule "bundle/vim-python-mode"]
+	path = bundle/vim-python-mode
+	url = https://github.com/python-mode/python-mode
+[submodule "bundle/vim-tlib"]
+	path = bundle/vim-tlib
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim-unite"]
+	path = bundle/vim-unite
+	url = https://github.com/Shougo/unite.vim.git
