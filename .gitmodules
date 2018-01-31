@@ -1,0 +1,3 @@
+[submodule "vim-settings"]
+	path = vim-settings
+	url = git@bbgithub.dev.bloomberg.com:asadough/vim-settings.git
